@@ -4,7 +4,7 @@ const cheerio = require('cheerio');
 const schedule = require('node-schedule');
 const moment = require('moment-timezone');
 
-const apiToken = '7458060169:AAHqQ-dTkcuCxSmD8uH0m9bDNpab8boCvOc';
+const apiToken = '7458060169:AAG7-MfOXwzUqiNNdA2X2tckOik0_XQWnRo';
 const bot = new TelegramBot(apiToken, { polling: true });
 const chatId = '-1001661952322';
 
