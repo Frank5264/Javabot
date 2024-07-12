@@ -6,7 +6,7 @@ const moment = require('moment-timezone');
 
 const apiToken = '7458060169:AAG7-MfOXwzUqiNNdA2X2tckOik0_XQWnRo';
 const bot = new TelegramBot(apiToken, { polling: true });
-const chatId = '-1001661952322';
+const chatId = '-1001861299347';
 
 // Get random dua
 async function getRandomDua() {
